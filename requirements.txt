@@ -2,5 +2,5 @@ pandas
 numpy 
 matplotlib 
 streamlit == 1.38.0
-scikit
+scikit-learn
 seaborn
